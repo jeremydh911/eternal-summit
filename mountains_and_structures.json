@@ -1,0 +1,27 @@
+{
+  "Mountains": [
+    {
+      "ID": "M001",
+      "Name": "Peak of First Light",
+      "BaseHeight": 1200,
+      "GrowthStages": 5,
+      "BuildSlots": 24,
+      "Biome": "Celestial_Stone",
+      "StartingDeedValue": 450,
+      "ProceduralSeed": 133742069
+    },
+    {
+      "ID": "M002",
+      "Name": "Stormcrown Spire",
+      "BaseHeight": 980,
+      "GrowthStages": 6,
+      "BuildSlots": 18,
+      "Biome": "Thunder_Storm",
+      "StartingDeedValue": 620
+    }
+  ],
+  "BuildableStructures": [
+    { "Name": "Divine Citadel", "Cost": 180, "GrowthBonus": 1.45, "Animation": "Build_RiseWithParticles" },
+    { "Name": "Essence Spire", "Cost": 95, "GrowthBonus": 1.20, "Animation": "Build_GlowPulse" }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "ID": "H001",
+    "Name": "Aetherion the Bold",
+    "Class": "Defender",
+    "Role": "Tank",
+    "Animations": ["Idle_MountainPose", "Victory_ThroneRaise", "Stagger_Hit"],
+    "Abilities": [
+      { "Name": "Mountain Bulwark", "Type": "Active", "Cooldown": 12 },
+      { "Name": "Aetheric Shield", "Type": "Passive", "Value": 0.2 }
+    ]
+  },
+  {
+    "ID": "H002",
+    "Name": "Nyx the Shadow",
+    "Class": "Assassin",
+    "Role": "DPS",
+    "Animations": ["Stealth_Enter", "Strike_Quick", "Victory_ShadowDance"],
+    "Abilities": [
+      { "Name": "Umbral Dash", "Type": "Active", "Cooldown": 8 },
+      { "Name": "Shadow Mark", "Type": "Passive", "Value": 0.15 }
+    ]
+  },
+  {
+    "ID": "H003",
+    "Name": "Lyra of the Glade",
+    "Class": "Support",
+    "Role": "Healer",
+    "Animations": ["Nature_Meditation", "Healing_Burst", "Victory_FlowerBloom"],
+    "Abilities": [
+      { "Name": "Verdant Pulse", "Type": "Active", "Cooldown": 15 },
+      { "Name": "Growth Aura", "Type": "Passive", "Value": 0.1 }
+    ]
+  },
+  {
+    "ID": "H004",
+    "Name": "Ignis the Scorched",
+    "Class": "Mage",
+    "Role": "AOE_DPS",
+    "Animations": ["Flame_Stance", "Fireball_Cast", "Victory_FlameEmbrace"],
+    "Abilities": [
+      { "Name": "Pyroclastic Flow", "Type": "Active", "Cooldown": 10 },
+      { "Name": "Heat Wave", "Type": "Passive", "Value": 0.05 }
+    ]
+  },
+  {
+    "ID": "H005",
+    "Name": "Zephyr the Swift",
+    "Class": "Scout",
+    "Role": "Flanker",
+    "Animations": ["Wind_Walk", "Quick_Strike", "Victory_SkywardGaze"],
+    "Abilities": [
+      { "Name": "Tailwind Dash", "Type": "Active", "Cooldown": 6 },
+      { "Name": "Evasion Mastery", "Type": "Passive", "Value": 0.25 }
+    ]
+  },
+  {
+    "ID": "H006",
+    "Name": "Terra the Unyielding",
+    "Class": "Guardian",
+    "Role": "Tank",
+    "Animations": ["Earth_Stance", "Ground_Slam", "Victory_MountainMight"],
+    "Abilities": [
+      { "Name": "Tectonic Shift", "Type": "Active", "Cooldown": 18 },
+      { "Name": "Stone Skin", "Type": "Passive", "Value": 0.3 }
+    ]
+  },
+  {
+    "ID": "H007",
+    "Name": "Aqua the Serene",
+    "Class": "Tactician",
+    "Role": "Control",
+    "Animations": ["Flow_State", "Tidal_Wave", "Victory_OceanicGrace"],
+    "Abilities": [
+      { "Name": "Frost Bind", "Type": "Active", "Cooldown": 14 },
+      { "Name": "Fluidity", "Type": "Passive", "Value": 0.12 }
+    ]
+  },
+  {
+    "ID": "H008",
+    "Name": "Solari the Radiant",
+    "Class": "Paladin",
+    "Role": "Hybrid",
+    "Animations": ["Sun_Rise", "Holy_Strike", "Victory_GoldenGlow"],
+    "Abilities": [
+      { "Name": "Solar Flare", "Type": "Active", "Cooldown": 12 },
+      { "Name": "Divine Radiance", "Type": "Passive", "Value": 0.08 }
+    ]
+  }
+]

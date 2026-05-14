@@ -1,0 +1,20 @@
+{
+  "Pages": [
+    {
+      "PageID": "page_001",
+      "Title": "The First Ascent",
+      "SecretEffect": "SlowFall",
+      "Hint": "Look towards the clouds.",
+      "Visual": "tex_mountain_peak",
+      "Rarity": "Common"
+    },
+    {
+      "PageID": "page_002",
+      "Title": "Ancient Guardian",
+      "SecretEffect": "StoneSkin",
+      "Hint": "He sleeps in the hollow.",
+      "Visual": "tex_guardian_statue",
+      "Rarity": "Epic"
+    }
+  ]
+}

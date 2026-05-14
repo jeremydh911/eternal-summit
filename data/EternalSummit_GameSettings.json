@@ -1,0 +1,31 @@
+{
+  "GameTitle": "Eternal Summit: Rise of the Ascendants",
+  "Version": "0.1.0-MVP",
+  "Platform": "Mobile-First",
+  "TargetFPS": [60, 30],
+  "SessionDuration": { "Min": 180, "Max": 480 },
+  "MaxPlayersPerMatch": 16,
+  "MountainCountStart": 15,
+  "GuildSizeMax": 50,
+  "Monetization": {
+    "BattlePassPrice": 9.99,
+    "EssencePackTiers": [4.99, 9.99, 19.99, 49.99],
+    "DivineWardPack": 2.99
+  },
+  "DivineSystem": {
+    "EvilThresholdBase": 100,
+    "EvilDecayPerDay": 15,
+    "DisasterProbability": 0.12,
+    "BlessingProbability": 0.08
+  },
+  "Audio": {
+    "MusicStyle": "MarioInspired_Adventure_OrchestralChiptune",
+    "DynamicLayers": true,
+    "MasterVolume": 1.0
+  },
+  "Graphics": {
+    "NaniteEnabled": true,
+    "LODScale": 0.75,
+    "AnimationQuality": "High"
+  }
+}

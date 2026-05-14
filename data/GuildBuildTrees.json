@@ -1,0 +1,28 @@
+{
+  "GuildStructures": [
+    {
+      "ID": "S001",
+      "Name": "Aether Sentry",
+      "Tier": 1,
+      "Cost": 150,
+      "Effect": "Increases_Defense_5pct",
+      "BuildTime": 30
+    },
+    {
+      "ID": "S002",
+      "Name": "Celestial Spire",
+      "Tier": 2,
+      "Cost": 500,
+      "Effect": "Increases_Resource_Gen_10pct",
+      "BuildTime": 60
+    },
+    {
+      "ID": "S003",
+      "Name": "Void Bastion",
+      "Tier": 3,
+      "Cost": 1200,
+      "Effect": "Increases_Evil_Score_Modifier_20pct",
+      "BuildTime": 120
+    }
+  ]
+}

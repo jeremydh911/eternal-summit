@@ -1,0 +1,36 @@
+{
+  "Heroes": [
+    {
+      "ID": "H001",
+      "Name": "Aetherion the Bold",
+      "Class": "Defender",
+      "Role": "Tank",
+      "Animations": ["Idle_MountainPose", "Victory_ThroneRaise", "Stagger_Heavy"],
+      "Stats": { "HP": 1500, "Attack": 45, "Defense": 80, "Speed": 10 }
+    },
+    {
+      "ID": "H002",
+      "Name": "Lumina the Swift",
+      "Class": "Mage",
+      "Role": "DPS",
+      "Animations": ["Idle_Float", "SpellCast_Glow", "Victory_Sparkle"],
+      "Stats": { "HP": 800, "Attack": 95, "Defense": 30, "Speed": 25 }
+    },
+    {
+      "ID": "H003",
+      "Name": "Kaelen the Rogue",
+      "Class": "Scout",
+      "Role": "Assassin",
+      "Animations": ["Idle_Crouch", "Stealth_Dissolve", "Victory_Spin"],
+      "Stats": { "HP": 900, "Attack": 75, "Defense": 40, "Speed": 40 }
+    },
+    {
+      "ID": "H004",
+      "Name": "Grom the Earthbreaker",
+      "Class": "Warrior",
+      "Role": "Bruiser",
+      "Animations": ["Idle_Stance", "Smash_Ground", "Victory_Roar"],
+      "Stats": { "HP": 1800, "Attack": 65, "Defense": 60, "Speed": 15 }
+    }
+  ]
+}

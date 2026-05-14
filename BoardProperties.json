@@ -1,0 +1,53 @@
+{
+  "Deeds": [
+    {
+      "ID": "D001",
+      "Name": "Celestial Stone Quarry",
+      "Cost": 600,
+      "RentBase": 50,
+      "RentMultiplier": 1.5,
+      "ColorGroup": "Celestial",
+      "BuildSlots": 4
+    },
+    {
+      "ID": "D002",
+      "Name": "Aetheric Sky-Garden",
+      "Cost": 800,
+      "RentBase": 100,
+      "RentMultiplier": 1.8,
+      "ColorGroup": "Celestial",
+      "BuildSlots": 4
+    },
+    {
+      "ID": "D003",
+      "Name": "Void-Touched Outpost",
+      "Cost": 1000,
+      "RentBase": 150,
+      "RentMultiplier": 2.0,
+      "ColorGroup": "Void",
+      "BuildSlots": 3
+    },
+    {
+      "ID": "D004",
+      "Name": "Shadow Peak Bastion",
+      "Cost": 1200,
+      "RentBase": 200,
+      "RentMultiplier": 2.2,
+      "ColorGroup": "Void",
+      "BuildSlots": 3
+    },
+    {
+      "ID": "D005",
+      "Name": "Divine Throne Summit",
+      "Cost": 2000,
+      "RentBase": 500,
+      "RentMultiplier": 3.0,
+      "ColorGroup": "Divine",
+      "BuildSlots": 5
+    }
+  ],
+  "TaxRules": {
+    "EvilBehaviorPenalty": 1.2,
+    "DivineBlessingBonus": 0.8
+  }
+}

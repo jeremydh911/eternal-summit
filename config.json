@@ -1,0 +1,8 @@
+{
+  "GameVersion": "0.1.0-MVP",
+  "Platform": "Mobile-First",
+  "TargetFPS": [60, 30],
+  "SessionDuration": { "Min": 180, "Max": 480 },
+  "MaxPlayersPerMatch": 16,
+  "MountainCountStart": 15
+}

@@ -1,0 +1,43 @@
+{
+  "Events": [
+    {
+      "Type": "Lightning_Smite",
+      "Trigger": "EvilScore > 150",
+      "Effect": "DamageMountain_25Percent + StunHeroes_8s",
+      "Visual": "SkyCrack_Thunder",
+      "SFX": "Mario_ThunderBoom_WithChoir",
+      "Probability": 0.18,
+      "Target": "HighEvilPlayers"
+    },
+    {
+      "Type": "Fertile_Blessing",
+      "Trigger": "GuildContributionHigh",
+      "Effect": "MountainGrowth_40Percent + ExtraDeeds",
+      "Visual": "GoldenRain_Particles",
+      "SFX": "Mario_CoinShower_Triumphant",
+      "Probability": 0.08
+    },
+    {
+      "Type": "Avalanche_Reshape",
+      "Trigger": "RandomDuringLongHold",
+      "Effect": "RedistributeTiles + NewBuildSlots",
+      "Visual": "MountainSlide_Chaos",
+      "SFX": "EarthRumble_MarioStyle",
+      "Probability": 0.06
+    },
+    {
+      "Type": "Celestial_Bloom",
+      "Trigger": "LowEvilScoreGlobal",
+      "Effect": "ResourceRegen_Double + HealingPulse",
+      "Visual": "FlowerPetalSwirl",
+      "SFX": "Harp_Ethereal_Chime",
+      "Probability": 0.05
+    }
+  ],
+  "EvilBehaviors": [
+    { "Action": "BetrayGuildMidBuild", "Points": 65 },
+    { "Action": "RaidNewPlayerUnprovoked", "Points": 45 },
+    { "Action": "HoardDeedsZeroContribution", "Points": 55 },
+    { "Action": "DestroyAllyBuild", "Points": 80 }
+  ]
+}

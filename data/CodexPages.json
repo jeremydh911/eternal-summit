@@ -1,0 +1,21 @@
+{
+  "CodexName": "Codex of Ascendance",
+  "TotalPages": 24,
+  "DiscoveryMethods": ["ThroneHoldRare", "KingdomDig", "DivineEventReward", "RaidLuckyFind"],
+  "Pages": [
+    {
+      "PageID": "C001",
+      "Name": "The First Spark",
+      "Description": "The awakening of the mountain's soul.",
+      "RequiredAchievement": "None",
+      "LoreSnippet": "In the beginning, there was only stone and silence."
+    },
+    {
+      "PageID": "C002",
+      "Name": "Echoes of the Void",
+      "Description": "Secrets whispered by the dark clouds.",
+      "RequiredAchievement": "ReachEvilScore_100",
+      "LoreSnippet": "The shadows do not merely exist; they wait."
+    }
+  ]
+}

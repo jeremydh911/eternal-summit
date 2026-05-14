@@ -1,0 +1,33 @@
+{
+  "DivineSystem": {
+    "EvilThresholdBase": 100,
+    "EvilDecayPerDay": 5,
+    "DisasterProbability": 0.1,
+    "BlessingProbability": 0.1,
+    "Events": [
+      {
+        "event": "Thunderbolt of Wrath",
+        "probability": 0.7,
+        "effect": "Deals 50 damage to nearby players",
+        "visual": "Lightning strike from sky"
+      },
+      {
+        "event": "Earthquake",
+        "probability": 0.3,
+        "effect": "Stuns all players for 3 seconds",
+        "visual": "Screen shake and ground cracking"
+      }
+    ]
+  },
+  "BlessingSystem": {
+    "BlessingChance": 0.2,
+    "Events": [
+      {
+        "event": "Golden Rain",
+        "probability": 1.0,
+        "effect": "Heals all players for 20 HP",
+        "visual": "Golden particles falling from sky"
+      }
+    ]
+  }
+}

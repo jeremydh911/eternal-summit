@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "EternalSummit Tests",
+  "Description": "Editor-only automation tests for the EternalSummit module.",
+  "Category": "Testing",
+  "CanContainContent": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "EternalSummitTests",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "BuildTrees": [
+    {
+      "TreeID": "T001",
+      "Name": "Celestial Masonry",
+      "Tier1": {
+        "Structures": [
+          { "Name": "Stone Altar", "Cost": 100, "GrowthMod": 1.05, "DefenseMod": 5 },
+          { "Name": "Prayer Plinth", "Cost": 150, "GrowthMod": 1.10, "DivineFavorMod": 2 }
+        ]
+      },
+      "Tier2": {
+        "Structures": [
+          { "Name": "Sky-Forge", "Cost": 400, "GrowthMod": 1.20, "ResourceMod": 1.15 },
+          { "Name": "Light-Infused Spire", "Cost": 600, "GrowthMod": 1.35, "DefenseMod": 25 }
+        ]
+      }
+    },
+    {
+      "TreeID": "T002",
+      "Name": "Void Corruption",
+      "Tier1": {
+        "Structures": [
+          { "Name": "Shadow Well", "Cost": 120, "EvilScoreMod": 5, "GrowthMod": 0.9 },
+          { "Name": "Echoing Obelisk", "Cost": 200, "EvilScoreMod": 15, "StunChance": 0.05 }
+        ]
+      },
+      "Tier2": {
+        "Structures": [
+          { "Name": "Void Rift", "Cost": 500, "EvilScoreMod": 50, "ChaosFactorMod": 1.5 },
+          { "Name": "Abyssal Throne", "Cost": 800, "EvilScoreMod": 100, "DefenseMod": 40 }
+        ]
+      }
+    }
+  ]
+}

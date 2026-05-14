@@ -1,0 +1,39 @@
+{
+  "CodexName": "Codex of Ascendance",
+  "TotalPages": 24,
+  "DiscoveryMethods": ["ThroneHoldRare", "KingdomDig", "DivineEventReward", "RaidLuckyFind"],
+  "Pages": [
+    {
+      "PageID": "C001",
+      "Title": "Verse of Hidden Growth",
+      "SecretEffect": "MountainGrowthMultiplier_1.6_for_3Days",
+      "Hint": "The mountain listens when the humble build together...",
+      "Visual": "GlowingGoldenPage",
+      "Rarity": "Common"
+    },
+    {
+      "PageID": "C002",
+      "Title": "Echoes of the Void",
+      "SecretEffect": "IncreaseEvilScoreGain_20Percent",
+      "Hint": "Listen to the whispers in the cracks...",
+      "Visual": "ShadowedPurplePage",
+      "Rarity": "Common"
+    },
+    {
+      "PageID": "C012",
+      "Title": "Thunder’s Mercy",
+      "SecretEffect": "OneTimeLightningImmunity + DivineFavorBoost",
+      "Hint": "Even the wicked may be spared... once.",
+      "Visual": "CracklingBluePage",
+      "Rarity": "Rare"
+    },
+    {
+      "PageID": "C024",
+      "Title": "The Ascendant’s Decree",
+      "SecretEffect": "GodMode_Seasonal_OneTime",
+      "Hint": "The final word written in light.",
+      "Visual": "RadiantPrismaticPage",
+      "Rarity": "Legendary"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Metadata": {
+    "Project": "Eternal Summit: Rise of the Ascendants",
+    "Version": "0.1.0-MVP",
+    "LastUpdated": "2023-10-27"
+  },
+  "DataSources": {
+    "Heroes": "heroes.json",
+    "Environment": "mountains_and_structures.json",
+    "DivineSystems": "game_config.json",
+    "GlobalConfig": "config.json"
+  }
+}

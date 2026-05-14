@@ -1,0 +1,36 @@
+{
+  "BoardProperties": [
+    {
+      "ID": "D001",
+      "Name": "Celestial Summit",
+      "Cost": 200,
+      "RentBase": 20,
+      "Multiplier": 1.5,
+      "ColorGroup": "Celestial"
+    },
+    {
+      "ID": "D002",
+      "Name": "Aether Peak",
+      "Cost": 400,
+      "RentBase": 50,
+      "Multiplier": 1.8,
+      "ColorGroup": "Celestial"
+    },
+    {
+      "ID": "D003",
+      "Name": "Void Valley",
+      "Cost": 600,
+      "RentBase": 100,
+      "Multiplier": 2.0,
+      "ColorGroup": "Void"
+    },
+    {
+      "ID": "D004",
+      "Name": "Shadow Ridge",
+      "Cost": 800,
+      "RentBase": 150,
+      "Multiplier": 2.2,
+      "ColorGroup": "Void"
+    }
+  ]
+}

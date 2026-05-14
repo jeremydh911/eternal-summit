@@ -1,0 +1,31 @@
+{
+  "Heroes": [
+    {
+      "ID": "H001",
+      "Name": "Aetherion the Bold",
+      "Class": "Defender",
+      "Role": "Tank",
+      "Animations": ["Idle_MountainPose", "Victory_ThroneRaise", "Stagger_Lightning"],
+      "Abilities": ["ShieldWall", "MountainCall"],
+      "BaseStats": { "Health": 1200, "Damage": 85, "Speed": 650 }
+    },
+    {
+      "ID": "H002",
+      "Name": "Lirael Swiftstrike",
+      "Class": "Assassin",
+      "Role": "DPS",
+      "Animations": ["Dash_Swipe", "Stealth_Vanish", "Victory_Backflip"],
+      "Abilities": ["ShadowRaid", "ThroneSteal"],
+      "BaseStats": { "Health": 650, "Damage": 145, "Speed": 920 }
+    },
+    {
+      "ID": "H003",
+      "Name": "Thalor the Architect",
+      "Class": "Support",
+      "Role": "Builder",
+      "Animations": ["Build_HandWave", "Blessing_HandsRaise"],
+      "Abilities": ["RapidGrowth", "GuildShield"],
+      "BaseStats": { "Health": 800, "Damage": 60, "Speed": 580 }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EternalSummit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ConsoleVariables",
+			"Enabled": false
+		},
+		{
+			"Name": "ConcertMain",
+			"Enabled": false
+		},
+		{
+			"Name": "ConcertSharedSlate",
+			"Enabled": false
+		},
+		{
+			"Name": "ConcertSyncClient",
+			"Enabled": false
+		},
+		{
+			"Name": "ConcertSyncCore",
+			"Enabled": false
+		},
+		{
+			"Name": "EternalSummitTests",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,15 @@
+.vscode/
+.venv/
+.pytest_cache/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+saves/
+__pycache__/
+**/__pycache__/
+*.pyc
+Plugins/*/Binaries/
+Plugins/*/DerivedDataCache/
+Plugins/*/Intermediate/
+tests/DivineMathEngineTests

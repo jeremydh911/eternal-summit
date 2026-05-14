@@ -1,0 +1,12 @@
+[
+  {
+    "EventName": "Celestial Favor",
+    "EvilThreshold": 0.0,
+    "bIsBlessing": true
+  },
+  {
+    "EventName": "Abyssal Wrath",
+    "EvilThreshold": 75.0,
+    "bIsBlessing": false
+  }
+]
